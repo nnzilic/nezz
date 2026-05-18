@@ -1,31 +1,33 @@
-<h1>My First Project 🚀</h1>
+<h1>🚀 First GitHub Project</h1>
 
 <p>
-This is my first project uploaded on GitHub.
-I'm currently learning programming, Git, and how to work with projects and repositories.
+Just a small beginning.
+This repository was created while learning GitHub and programming basics.
+More files, projects, and updates will be added over time.
 </p>
+
+<h2>📌 Current State</h2>
 
 <p>
-Right now the repository only contains a README file, but more content and updates will be added soon.
+Currently only contains a README file.
 </p>
 
-<h2>Goals</h2>
+<h2>🎯 Purpose</h2>
 
 <ul>
-  <li>Learn Git & GitHub</li>
-  <li>Practice programming</li>
-  <li>Improve coding skills</li>
-  <li>Build future projects</li>
+  <li>Learning Git & GitHub</li>
+  <li>Practicing programming</li>
+  <li>Tracking progress</li>
 </ul>
 
-<h2>Status</h2>
+<h2>⚡ Future Updates</h2>
 
 <p>
-🛠️ Work in progress...
+New code and project content coming soon.
 </p>
 
-<h2>Author</h2>
+<hr>
 
 <p>
-First step into programming 🙂
+Made while learning 💻
 </p>
