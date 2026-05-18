@@ -1,3 +1,2 @@
 # moj prvi projekat
-nmp
-MOLIMM????
+:P
